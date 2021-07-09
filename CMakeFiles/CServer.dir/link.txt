@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/CServer.dir/src/dispatcher.cpp.o CMakeFiles/CServer.dir/src/event_loop.cpp.o CMakeFiles/CServer.dir/src/main.cpp.o CMakeFiles/CServer.dir/src/thread_pool.cpp.o CMakeFiles/CServer.dir/src/utils.cpp.o CMakeFiles/CServer.dir/src/vhannel.cpp.o  -o CServer -lpthread 

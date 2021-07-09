@@ -1,0 +1,3 @@
+/root/cairo/webserver/CMakeFiles/rebuild_cache.dir
+/root/cairo/webserver/CMakeFiles/CServer.dir
+/root/cairo/webserver/CMakeFiles/edit_cache.dir
