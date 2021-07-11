@@ -57,7 +57,7 @@ int main() {
     log_write("Server start ****************************************************");
     cout << "Server start !" << endl;
 
-    Thread_pool tp(1);
+    Thread_pool tp(4);
     sockaddr_in client_addr;
     while (true) {
         memset(&client_addr, 0, sizeof client_addr);
